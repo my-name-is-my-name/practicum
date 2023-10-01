@@ -26,9 +26,7 @@ numpy, pandas, sklearn, matplotlib, seaborn, Сatboost, Lightgbm
 
     Было рассмотрено 3 модели: CatBoostRegressor, LGBMRegressor и RandomForestRegressor. Для поиска гиперпараметров использовадся GridSearchCV.
         
-    Лучшая модель:
-
-        CatBoostRegressor(loss_function="MAE", iterations=500, random_state=280823, depth=3, learning_rate=0.1)
+    Лучшая модель: CatBoostRegressor(loss_function="MAE", iterations=500, random_state=280823, depth=3, learning_rate=0.1)
         
     Метрика R2 лучшей модели равна 0.45, что означает что модель лучше константной модели
     
