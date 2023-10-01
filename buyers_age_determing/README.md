@@ -1,7 +1,7 @@
 # Определение возраста покупателей
 
 **Стэк**
-tensorflow.keras, numpy, pandas, PIL, matplotlib
+python, tensorflow.keras, numpy, pandas, PIL, matplotlib
 
 **Описание проекта**
 
